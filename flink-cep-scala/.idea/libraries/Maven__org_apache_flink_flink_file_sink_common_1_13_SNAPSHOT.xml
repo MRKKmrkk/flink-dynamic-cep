@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-file-sink-common:1.13-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-file-sink-common/1.13-SNAPSHOT/flink-file-sink-common-1.13-20220315.004842-930.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-file-sink-common/1.13-SNAPSHOT/flink-file-sink-common-1.13-20220315.004842-930-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-file-sink-common/1.13-SNAPSHOT/flink-file-sink-common-1.13-20220315.004842-930-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
