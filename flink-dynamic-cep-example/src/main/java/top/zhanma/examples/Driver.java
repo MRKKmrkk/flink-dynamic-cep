@@ -8,12 +8,12 @@ import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.api.windowing.time.Time;
 
-import top.zhanma.flink.dynamic.cep.CEP;
-import top.zhanma.flink.dynamic.cep.PatternStream;
-import top.zhanma.flink.dynamic.cep.RichPatternSelectFunction;
-import top.zhanma.flink.dynamic.cep.listener.CEPListener;
-import top.zhanma.flink.dynamic.cep.pattern.Pattern;
-import top.zhanma.flink.dynamic.cep.pattern.conditions.RichIterativeCondition;
+import org.apache.flink.cep.CEP;
+import org.apache.flink.cep.PatternStream;
+import org.apache.flink.cep.RichPatternSelectFunction;
+import org.apache.flink.cep.listener.CEPListener;
+import org.apache.flink.cep.pattern.Pattern;
+import org.apache.flink.cep.pattern.conditions.RichIterativeCondition;
 
 import java.util.ArrayList;
 import java.util.Map;
